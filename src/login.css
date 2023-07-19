@@ -1,0 +1,177 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.7be05cd7b3d69f9e6b45b8c9747da1dd?rik=iAAK8HsxCLVOKQ&riu=http%3a%2f%2fwolontariat.ops.polkowice.pl%2fwp-content%2fuploads%2f2016%2f08%2fFotolia_112841564_M.jpg&ehk=HwkY%2biNXPzAcJqThZY9vJvhS84LBA13x1S6oZ4t9iSg%3d&risl=&pid=ImgRaw&r=0");
+   background-color: #cccccc;
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+  }
+
+.donate-now{
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+    color: rgb(198, 64, 86);
+    font-style:italic;
+
+}
+
+
+  .logindiv{
+     margin-left:880px;
+    margin-right:300px;
+    margin-top:50px;
+    display: flex;
+    flex-direction: column;
+    
+    width:450px;
+    height: 270px; /* Adjust the height as needed */
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius:20px;
+    
+  }
+
+  .div3{
+    margin-left:880px;
+    margin-right:300px;
+    margin-top:50px;
+    width:450px;
+    height: 170px; /* Adjust the height as needed */
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius:20px;
+    
+  }
+  #glassmorphic{
+    background: linear-gradient(to bottom, rgba(255, 179, 179, 1), rgba(253, 232, 211, 0.4), rgba(255, 236, 153, 0.09));
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(255, 0, 127, 0.6);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(236, 43, 107, 0.4);
+  }
+  .logo{
+    
+   margin-left:105px;
+    margin-top:30px;
+  
+    
+  }
+  
+  .customh1login{
+  position:absolute;
+  color: rgb(159, 20, 43) ;
+  z-index: 3;
+  font-size:150px;
+  margin-top:00px;
+  margin-left:00px;
+  margin-bottom:1000px;
+  padding:50px;
+  /* Set a higher value to make it overlap the image */
+  }
+
+  .para2login{
+    color:rgb(159, 23, 46);
+    padding: 50px;
+    font-size:20px;
+    margin-top:200px;
+    
+    position:absolute;
+    z-index: 3;
+  }
+  a {
+    color: rgb(255, 255, 255); /* Set the desired color for the link */
+    text-decoration: none; /* Remove underline if desired */
+  }
+  
+  a:hover {
+    color: rgb(252, 228, 48); /* Set the desired color on hover if needed */
+  }
+
+  .headdiv{
+    display:flex;
+    flex-direction: column;
+    width:0px;
+    height:0px;
+    background-color:rgb(198, 64, 86);
+   z-index: -1;
+  
+
+  }
+
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    border-top-right-radius: 00px;
+    border-bottom-right-radius: 5000px;
+
+    background: linear-gradient(to right, rgba(255, 179, 179, 0.3), rgba(253, 232, 211, 0.4), rgba(255, 236, 153, 0.95));
+    background-color: rgb(198, 64, 86,0.6) ;/* Set the desired background color and transparency */
+    z-index: 2; /* Set a higher value to make it overlap the image */
+  }
+p{
+    text-align-last: right;
+}
+ 
+
+  .pinky{
+    background-color:rgb(198, 64, 86);
+  color: white; 
+    border: none;
+    padding: 10px 25px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top:28px;
+  margin-right:250px;
+  height:50px;
+  width:120px;
+  }
+
+  .pink{
+    background-color:rgb(198, 64, 86);
+  color: white; 
+    border: none;
+    padding: 10px 25px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top:12px;
+}
+  
+  .signup{
+    color:black;
+  }
+  .logindivv{
+    margin-left:770px;
+   margin-right:300px;
+   margin-top:150px;
+     display: flex;
+   flex-direction: column;
+   align-items: left;
+   width:500px;
+   height: 640px; /* Adjust the height as needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+   border-radius:20px;
+   
+  }
+  #glassmorphicc{
+   background: linear-gradient(145deg, rgba(189, 229, 245, 0.8), rgba(255, 255, 255, 0.1));
+   border-radius: 10px;
+   padding: 20px;
+   /*box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);*/
+   backdrop-filter: blur(10px);
+   -webkit-backdrop-filter: blur(10px);
+   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+   border: 1px solid rgba(255, 255, 255, 0.4);
+  }
+  
+  .logoo{
+   
+  margin-left:105px;
+   margin-top:30px;
+  
+   
+  }
+  
+  

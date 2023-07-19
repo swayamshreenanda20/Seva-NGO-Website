@@ -1,0 +1,270 @@
+
+
+body {
+  background-color: #f2f2f2;
+}
+
+.homediv{
+  
+  background:white;
+  
+ 
+}
+.overlayy{
+ position: absolute;
+ margin-bottom:14px;
+ left: 0;
+ width: 50%;
+ height: 55%;
+ border-top-right-radius: 00px;
+ border-bottom-right-radius: 5000px;
+
+ background: linear-gradient(to right, rgba(255, 179, 179, 0.3), rgba(253, 232, 211, 0.4), rgba(255, 236, 153, 0.95));
+  background-color: rgb(198, 64, 86,0.6) ;/* Set the desired background color and transparency */
+  z-index: 1; /* Set a higher value to make it overlap the image */
+
+}
+
+.parag{
+  color:rgb(198, 64, 86);
+}
+.hero3{
+  margin-top:10px;
+  background-color:white;
+  width:100%;
+  height:550px;
+
+}
+.hero3 h1{
+  font-size:28px;
+  margin-left:40px;
+  color:rgb(198, 64, 86);
+}
+
+
+
+
+
+.campima{
+  
+  margin-top: 10px;;
+  width:200px;
+  height:200px;
+  border:2px solid rgb(198, 64, 86);
+  border-radius: 40px;
+  box-shadow: 4px 4px 6px rgb(198, 64, 86);
+  
+}
+.tw1 h1{
+  margin-right:45px;
+}
+
+.hero4{
+  margin-top:10px;
+  background-color:rgb(198, 64, 86);
+  width:100%;
+  height:450px;
+
+  display:flex;
+  flex-direction:column;
+align-items: center;
+  
+}
+.container4{
+ 
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+ width:1200px;
+ height:300px;
+  margin-top:100px;
+
+}
+.footerp{
+  text-align: center;
+}
+.tw4{
+  display:flex;
+  flex-direction:column;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+.hero4 h1{
+color:white;
+
+}
+.hero4 h2{
+  color:white;
+}
+
+.hero4 p{
+   color:white;
+}
+
+.tw1{
+
+
+border:2px solid rgb(198, 64, 86,0.7);
+border-radius: 40px;
+box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+display: flex; /* Use flexbox layout */
+padding:20px;
+flex-direction: column;
+justify-content: center; /* Center align the paragraph horizontally */
+align-items: center; /* Center align the paragraph vertically */
+width:300px;
+height:400px;
+margin-left:40px;
+
+}
+.tw2{
+ 
+
+  background: linear-gradient(to bottom, rgb(241, 110, 110), rgba(220, 157, 94, 0.2), rgba(242, 218, 109, 0.6));
+  padding: 20px;
+  box-shadow: 0 0 10px  rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(236, 43, 107, 0.4);
+  border-radius: 40px;
+display: flex; /* Use flexbox layout */
+flex-direction: column;
+justify-content: center; /* Center align the paragraph horizontally */
+align-items: center; /* Center align the paragraph vertically */
+width:300px;
+height:300px;
+margin-left:40px;
+
+}
+.hero2{
+  margin-top:10px;
+  background-color:white;
+  width:100%;
+  height:280px;
+  
+}
+.hero2 h1{
+  font-size:28px;
+  margin-left:40px;
+  color:rgb(198, 64, 86);
+
+}
+.container {
+  display: flex;
+  align-items: center;
+  
+}
+
+.image {
+  flex: 0 0 auto;
+}
+
+.paragraph {
+  flex: 1 1 auto;
+  text-align: center;
+  text-align-last: center;
+  
+ 
+  padding: 20px; /* Add some padding to the paragraph */
+}
+
+.hero2p1{
+   border:2px solid rgb(198, 64, 86,0.7);
+   border-radius: 40px;
+   box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+  display: flex; /* Use flexbox layout */
+  justify-content: center; /* Center align the paragraph horizontally */
+  align-items: center; /* Center align the paragraph vertically */
+  width:1200px;
+  margin-left:40px;
+
+
+  
+
+}
+
+
+
+.para2{
+  color:rgb(198, 64, 86);
+
+  font-size:19px;
+  margin-top:180px;
+  margin-right:55px;
+  margin-left:30px;
+  position:absolute;
+  z-index: 1;
+  
+
+}
+.para{
+  text-align: center;
+  text-align-last: center;
+  margin-left:70px;
+ 
+}
+
+.custommh1{
+  font-size:30px;
+  margin-top:80px;
+  margin-right:45px;
+  color:rgb(198, 64, 86);
+  
+}
+
+.customh1{
+  position:absolute;
+  color: rgb(212, 44, 72);
+  z-index: 1;
+  font-size:100px;
+  margin-top:00px;
+  margin-left:00px;
+  margin-bottom:1000px;
+  padding:30px;
+  /* Set a higher value to make it overlap the image */
+}
+.hero{
+  width:100%;
+  height:500px;
+  display:flex;
+  align-items:right;
+  display:column;
+
+
+}
+
+.navbar-brand{
+  margin-left:50px;
+}
+
+.navbar-custom {
+  background-color:rgb(198, 64, 86);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  
+}
+
+.my-navbar{
+  font-size:25px;
+  font-weight: 30px;
+
+
+}
+
+
+
+
+
+.mr-custom{
+  margin-right:50px;
+  display:inline-flex;
+
+ 
+}
+
+
+
+ 
+  
