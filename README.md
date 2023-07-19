@@ -1,74 +1,14 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Seva-NGO-Website
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/6059ce76-4f34-43d8-b677-dbd51e2938dc)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/e8fdb21a-1ddc-45e9-ba98-9178840c9a76)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/a468370d-452e-434c-8961-5b2790ff6162)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/47b16b25-8763-4c08-b4ea-287663982abc)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/feac1282-20d2-4ceb-bbe5-b9ab12de5bf9)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/1b9ed493-1c88-4f02-8772-c8fccac42f4d)
+![image](https://github.com/swayamshreenanda20/Seva-NGO-Website/assets/118578089/07c9922b-fff6-494e-a3d3-c31cb27ac384)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Seva-NGO-Website
->>>>>>> 333f6ff0becefce5182c31ae2ec5fb0840b9a9b0
